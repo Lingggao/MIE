@@ -4,3 +4,6 @@
 
 **作 者**：Ling Gao，Microsoft 认证创新教师 (MIE)
 
+![MIE_1](https://github.com/Lingggao/MIE/blob/main/Pictures/MIE_1.png?raw=true)
+
+![MIE_2](https://github.com/Lingggao/MIE/blob/main/Pictures/MIE_2.png?raw=true)
