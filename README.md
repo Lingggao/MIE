@@ -6,3 +6,5 @@
 
 <img src="https://github.com/Lingggao/MIE/blob/main/Pictures/MIE_1.png?raw=true" width = "45%" /><img src="https://github.com/Lingggao/MIE/blob/main/Pictures/MIE_2.png?raw=true" width = "50%" />
 
+>   左：旧版 MIE 证书、右：新版 MIE 证书
+
