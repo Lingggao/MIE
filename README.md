@@ -10,5 +10,5 @@
 
 ## 目 录
 
-1.   [**现代工作场所中的领导力**](https://cn.bing.com)
+1.   [**现代工作场所中的领导力**](https://github.com/Lingggao/MIE/blob/main/1_Litmw.md#%E7%8E%B0%E4%BB%A3%E5%B7%A5%E4%BD%9C%E5%9C%BA%E6%89%80%E4%B8%AD%E7%9A%84%E9%A2%86%E5%AF%BC%E5%8A%9B)
 
