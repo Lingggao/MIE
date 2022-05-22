@@ -28,6 +28,8 @@ Microsoft 致力于帮助教师提高专业技能，协助学生在严格培训�
 
 优秀的学校一定会重视培养教师们的专业技能。Microsoft Forms 产品可用于接收、评估与跟踪教学效果，为新任教师制定发展规划，让教职员工更好地参与校内决策，对学生数据进行集中分类等，帮助教师和学生节省时间和精力 (如下图)。
 
+![Microsoft Forms](https://github.com/Lingggao/MIE/blob/main/Pictures/forms.png?raw=true)
+
 
 
 ----
