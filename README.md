@@ -4,5 +4,5 @@
 
 **作 者**：Ling Gao，Microsoft 认证创新教师 (MIE)
 
-<img src="https://github.com/Lingggao/MIE/blob/main/Pictures/MIE_1.png?raw=true" width = "50%" /><img src="https://github.com/Lingggao/MIE/blob/main/Pictures/MIE_2.png?raw=true" width = "50%" />
+<img src="https://github.com/Lingggao/MIE/blob/main/Pictures/MIE_1.png?raw=true" width = "45%" /><img src="https://github.com/Lingggao/MIE/blob/main/Pictures/MIE_2.png?raw=true" width = "50%" />
 
