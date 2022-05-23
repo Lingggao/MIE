@@ -33,7 +33,7 @@ Microsoft 创新教师 (MIE) 计划旨在表彰全球各地具有远见的教师
 
 欢迎为本《**[Microsoft 认证创新教师 (MIE) 学习笔记](https://github.com/Lingggao/MIE#microsoft-%E8%AE%A4%E8%AF%81%E5%88%9B%E6%96%B0%E6%95%99%E5%B8%88-mie---%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)**》评分、勘误、提供宝贵意见建议。
 
-请点击[「**此处**」]()或扫描下方二维码填写调查表，调查完全匿名。谢谢！
+请点击[「**此处**」](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUREw1MVRBNUtFVFNTSEk4TkVYSThSN05ERi4u)或扫描下方二维码填写调查表，调查完全匿名。谢谢！
 
 //
 
