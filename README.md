@@ -4,6 +4,8 @@
 
 >   **受中国内地 Internet 网络环境影响，笔记中的图片可能无法正常显示，敬请留意**。
 
+----
+
 **作 者**：Ling Gao，Microsoft 认证创新教师 (MIE)
 
 Microsoft 创新教师 (MIE) 计划表彰世界各地有远见的教师，他们利用技术为同行铺设道路，帮助更好地学习、取得更佳的学生成果。这些教师热情洋溢，共同学习、分享和成长。
@@ -22,6 +24,7 @@ Microsoft 创新教师 (MIE) 计划表彰世界各地有远见的教师，他们
          -   [2. 教师发展，舒适学习环境](https://github.com/Lingggao/MIE/blob/main/1_Litmw.md#2-%E6%95%99%E5%B8%88%E5%8F%91%E5%B1%95%E8%88%92%E9%80%82%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83)  
          -   [3. 教师发展，实时跟踪反馈](https://github.com/Lingggao/MIE/blob/main/1_Litmw.md#3-%E6%95%99%E5%B8%88%E5%8F%91%E5%B1%95%E5%AE%9E%E6%97%B6%E8%B7%9F%E8%B8%AA%E5%8F%8D%E9%A6%88)  
          -   [4. 文化包容，提高学生成绩](https://github.com/Lingggao/MIE/blob/main/1_Litmw.md#4-%E6%96%87%E5%8C%96%E5%8C%85%E5%AE%B9%E6%8F%90%E9%AB%98%E5%AD%A6%E7%94%9F%E6%88%90%E7%BB%A9)  
+         -   [5. 为学生提供公平的机会]()
 2.   //TO DO  
 
 
