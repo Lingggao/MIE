@@ -56,3 +56,4 @@ Microsoft 致力于帮助教师提高专业技能，协助学生在严格培训�
 
 [**返回首页**](https://github.com/Lingggao/MIE#microsoft-%E8%AE%A4%E8%AF%81%E5%88%9B%E6%96%B0%E6%95%99%E5%B8%88-mie---%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)
 
+<img src="https://github.com/Lingggao/MIE/blob/main/Pictures/LING.png?raw=true" width = "15%" />
