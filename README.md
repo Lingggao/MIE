@@ -1,6 +1,6 @@
 # Microsoft 认证创新教师 (MIE) - 学习笔记
 
-**声 明**：本 Repository 中的全部信息整理自 [**Microsoft Learn 网站**](https://docs.microsoft.com/zh-cn/learn/)。Microsoft Learn 是完全免费的线上开放式培训平台，其面向所有人开放。请在严格遵守《[Microsoft 使用条款](https://www.microsoft.com/zh-cn/legal/terms-of-use)》和《[docs.microsoft.com - 使用条款](https://docs.microsoft.com/zh-cn/legal/termsofuse)》的前提下使用 Learn 平台。**学习笔记全部内容允许任意转载、自由使用**。谢谢！
+**声 明**：本 Repository 中的全部信息整理自 [**Microsoft Learn 网站**](https://docs.microsoft.com/zh-cn/learn/)，但无意且不能代表 Microsoft 公司意见或看法，仅为个人见解。Microsoft Learn 是完全免费的线上开放式培训平台，其面向所有人开放。请在严格遵守《[Microsoft 使用条款](https://www.microsoft.com/zh-cn/legal/terms-of-use)》和《[docs.microsoft.com - 使用条款](https://docs.microsoft.com/zh-cn/legal/termsofuse)》的前提下使用 Learn 平台。**学习笔记全部内容允许任意转载、自由使用**。谢谢！
 
 >   **受中国内地 Internet 网络环境影响，笔记中的图片可能无法正常显示，敬请留意**。
 
@@ -9,6 +9,8 @@
 <img src="https://github.com/Lingggao/MIE/blob/main/Pictures/MIE_1.png?raw=true" width = "45%" /><img src="https://github.com/Lingggao/MIE/blob/main/Pictures/MIE_2.png?raw=true" width = "50%" />
 
 >   左：旧版 MIE 证书、右：新版 MIE 证书
+
+**“知识是前人的实践，只有通过自己的实践，举一反三，才有真知。”** —— [中国工程院](https://www.cae.cn/cae/html/main/colys/12146941.html) 叶可明院士
 
 ## 目 录
 
