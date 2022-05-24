@@ -18,16 +18,18 @@ Microsoft 创新教师 (MIE) 计划旨在表彰全球各地具有远见的教师
 
 ## 目 录
 
-1.   [**现代工作场所中的领导力**](https://github.com/Lingggao/MIE/blob/main/1_Litmw.md#%E7%8E%B0%E4%BB%A3%E5%B7%A5%E4%BD%9C%E5%9C%BA%E6%89%80%E4%B8%AD%E7%9A%84%E9%A2%86%E5%AF%BC%E5%8A%9B)  
-     -   [**一、以教学领导力改善学习环境**](https://github.com/Lingggao/MIE/blob/main/1_Litmw.md#%E4%B8%80%E4%BB%A5%E6%95%99%E5%AD%A6%E9%A2%86%E5%AF%BC%E5%8A%9B%E6%94%B9%E5%96%84%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83)  
-         -   [1. 分析数据，提高学生成绩](https://github.com/Lingggao/MIE/blob/main/1_Litmw.md#1-%E5%88%86%E6%9E%90%E6%95%B0%E6%8D%AE%E6%8F%90%E9%AB%98%E5%AD%A6%E7%94%9F%E6%88%90%E7%BB%A9)  
-         -   [2. 教师发展，舒适学习环境](https://github.com/Lingggao/MIE/blob/main/1_Litmw.md#2-%E6%95%99%E5%B8%88%E5%8F%91%E5%B1%95%E8%88%92%E9%80%82%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83)  
-         -   [3. 教师发展，实时跟踪反馈](https://github.com/Lingggao/MIE/blob/main/1_Litmw.md#3-%E6%95%99%E5%B8%88%E5%8F%91%E5%B1%95%E5%AE%9E%E6%97%B6%E8%B7%9F%E8%B8%AA%E5%8F%8D%E9%A6%88)  
-         -   [4. 文化包容，提高学生成绩](https://github.com/Lingggao/MIE/blob/main/1_Litmw.md#4-%E6%96%87%E5%8C%96%E5%8C%85%E5%AE%B9%E6%8F%90%E9%AB%98%E5%AD%A6%E7%94%9F%E6%88%90%E7%BB%A9)  
-         -   [5. 为学生提供公平的机会](https://github.com/Lingggao/MIE/blob/main/1_Litmw.md#5-%E4%B8%BA%E5%AD%A6%E7%94%9F%E6%8F%90%E4%BE%9B%E5%85%AC%E5%B9%B3%E7%9A%84%E6%9C%BA%E4%BC%9A)  
-     -   [**二、以组织领导力开发教育系统**](https://github.com/Lingggao/MIE/blob/main/1_Litmw.md#%E4%BA%8C%E4%BB%A5%E7%BB%84%E7%BB%87%E9%A2%86%E5%AF%BC%E5%8A%9B%E5%BC%80%E5%8F%91%E6%95%99%E8%82%B2%E7%B3%BB%E7%BB%9F)  
-2.   //TO DO  
+:one: [**现代工作场所中的领导力**](https://github.com/Lingggao/MIE/blob/main/1_Litmw.md#%E7%8E%B0%E4%BB%A3%E5%B7%A5%E4%BD%9C%E5%9C%BA%E6%89%80%E4%B8%AD%E7%9A%84%E9%A2%86%E5%AF%BC%E5%8A%9B)  
 
+- [**一、以教学领导力改善学习环境**](https://github.com/Lingggao/MIE/blob/main/1_Litmw.md#%E4%B8%80%E4%BB%A5%E6%95%99%E5%AD%A6%E9%A2%86%E5%AF%BC%E5%8A%9B%E6%94%B9%E5%96%84%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83)  
+    - [1. 分析数据，提高学生成绩](https://github.com/Lingggao/MIE/blob/main/1_Litmw.md#1-%E5%88%86%E6%9E%90%E6%95%B0%E6%8D%AE%E6%8F%90%E9%AB%98%E5%AD%A6%E7%94%9F%E6%88%90%E7%BB%A9)  
+    - [2. 教师发展，舒适学习环境](https://github.com/Lingggao/MIE/blob/main/1_Litmw.md#2-%E6%95%99%E5%B8%88%E5%8F%91%E5%B1%95%E8%88%92%E9%80%82%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83)  
+    - [3. 教师发展，实时跟踪反馈](https://github.com/Lingggao/MIE/blob/main/1_Litmw.md#3-%E6%95%99%E5%B8%88%E5%8F%91%E5%B1%95%E5%AE%9E%E6%97%B6%E8%B7%9F%E8%B8%AA%E5%8F%8D%E9%A6%88)  
+    - [4. 文化包容，提高学生成绩](https://github.com/Lingggao/MIE/blob/main/1_Litmw.md#4-%E6%96%87%E5%8C%96%E5%8C%85%E5%AE%B9%E6%8F%90%E9%AB%98%E5%AD%A6%E7%94%9F%E6%88%90%E7%BB%A9)  
+    - [5. 为学生提供公平的机会](https://github.com/Lingggao/MIE/blob/main/1_Litmw.md#5-%E4%B8%BA%E5%AD%A6%E7%94%9F%E6%8F%90%E4%BE%9B%E5%85%AC%E5%B9%B3%E7%9A%84%E6%9C%BA%E4%BC%9A)  
+
+- [**二、以组织领导力开发教育系统**](https://github.com/Lingggao/MIE/blob/main/1_Litmw.md#%E4%BA%8C%E4%BB%A5%E7%BB%84%E7%BB%87%E9%A2%86%E5%AF%BC%E5%8A%9B%E5%BC%80%E5%8F%91%E6%95%99%E8%82%B2%E7%B3%BB%E7%BB%9F)  
+
+//TO DO  
 
 
 ## 反 馈
