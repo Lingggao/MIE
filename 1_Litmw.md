@@ -54,7 +54,9 @@ Microsoft 致力于帮助教师提高专业技能，协助学生在严格培训�
 
 ## 二、以组织领导力开发教育系统
 
-学校领导层普遍工作繁重，他们负责管理学校设施、运营、课程安排乃至实际教学。Microsoft 365 等生产力产品可以帮助学校领导者提高效率、最大限度地利用资源，促进校园环境的安全、高效与舒适。Bernard Marr 在《**什么是第四次工业革命，它意味着什么？**(译)》([***What really is the 4th Industrial Revolution, and what does it mean for you?***](https://www.linkedin.com/pulse/what-really-4th-industrial-revolution-does-mean-you-bernard-marr/)) 文章中说，“本时代由人工智能 (AI)、机器学习和机器人等技术驱动”。这些进步非常令人兴奋，但《**远程学习的启示** (译)》(***Takeaways from distance learning***) 和 John Hattie 的 2021 年报告《**并非所有发光的都是金子** (译)》(***Not all that glitters is gold***) 文章同样表示，“自 1970 年以来，科技对于教育、学习方面的影响并未根本改变”。Microsoft 希望通过解决方案为教育行业带来变革。
+学校领导团队普遍工作任务繁重，他们负责管理维护学校设施、运营、课程安排乃至实际教学。Microsoft 365 等生产力产品可以帮助学校领导者提高效率、最大限度地利用资源，促进校园环境的安全、高效与舒适。Bernard Marr 在《**什么是第四次工业革命，它意味着什么？**(译)》([***What really is the 4th Industrial Revolution, and what does it mean for you?***](https://www.linkedin.com/pulse/what-really-4th-industrial-revolution-does-mean-you-bernard-marr/)) 文章中说，**“本时代由人工智能 (AI)、机器学习和机器人等技术驱动”**。这些进步非常令人激动，但《**远程学习的启示** (译)》([***Takeaways from distance learning***](https://www.edutopia.org/article/takeaways-distance-learning?fbclid=IwAR27VFibLAB-IU2TV9XYO_5liqJJsFkevs_nz7OewOGnW7zfHNliKefvU4k_aem_AfmGYbBGq_ByxemJN5oSa-IX3LsQtk3FWI0DBBq6Z4wutaTYTcgO8VUee2GxlzIJnIaCzui1dejuhIPZxBf4pE6Bz8OzKVY03-T-B3KhK9i0qQ)) 和 John Hattie 的 2021 年报告《**并非所有发光的都是金子** (译)》([***Not all that glitters is gold***](https://cognitioneducationgroup.com/wp-content/uploads/2020/11/Not-All-That-Glitters-is-Gold.pdf)) 中同样表示，**“自 1970 年以来，科技对于教育、学习方面的影响并未根本改变”**。Microsoft 希望通过开发 Education 解决方案为全球教育事业带来变革。
+
+//
 
 ----
 
