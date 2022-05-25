@@ -60,7 +60,10 @@ Microsoft 致力于帮助教师提高专业技能，协助学生在严格培训�
 
 下方 Microsoft 工具可以协助学校领导者和教师缩小教育差距、优化系统和流程。
 
-//
+-   [**Microsoft Forms**](https://www.microsoft.com/zh-cn/microsoft-365/online-surveys-polls-quizzes) - 可用于收集全校学生数据的**投票与学习平台**。
+-   [**Microsoft Power Automate**](https://powerautomate.microsoft.com/zh-cn/) - 可用于节省时间和精力的**自动化工作流**。
+-   [**OneNote Staff Notebook**](https://www.onenote.com/staffnotebookedu) - 可用于组织教师会议资源的**教职员工笔记本**。
+-   [**Microsoft Bookings**](https://www.microsoft.com/zh-cn/microsoft-365/business/scheduling-and-booking-app) - 可用于预定家长会和教师会议的**计划整理与约会管理**工具。
 
 ### 2. 加强沟通
 
