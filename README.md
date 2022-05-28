@@ -50,3 +50,5 @@ Microsoft 创新教师 (MIE) 计划旨在表彰全球各地具有远见的教师
 [**回到顶部**](https://github.com/Lingggao/MIE#microsoft-%E8%AE%A4%E8%AF%81%E5%88%9B%E6%96%B0%E6%95%99%E5%B8%88-mie---%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)
 
 <img src="https://github.com/Lingggao/MIE/blob/main/Pictures/LING.png?raw=true" width = "15%" />
+
+[字体许可使用授权书]()
