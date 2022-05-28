@@ -1,8 +1,8 @@
-# Microsoft 认证创新教师 (MIE) - 学习笔记
+# Microsoft 认证创新教师 (MIE) - 学习记录
 
-**声 明**：本 Repository 中的全部信息整理自 [**Microsoft Learn 网站**](https://docs.microsoft.com/zh-cn/learn/)，但**无意**且**不能**代表 Microsoft 公司意见或看法，个人见解仅供参考。Microsoft Learn 是免费线上开放式培训平台，请在严格遵守《[Microsoft 使用条款](https://www.microsoft.com/zh-cn/legal/terms-of-use)》和《[docs.microsoft.com 使用条款](https://docs.microsoft.com/zh-cn/legal/termsofuse)》的前提下使用 Learn 平台。**学习笔记全部内容允许任意转载、自由使用**。谢谢！
+**声 明**：本 Repository 中的全部信息整理自 [**Microsoft Learn 网站**](https://docs.microsoft.com/zh-cn/learn/)，但**无意**且**不能**代表 Microsoft 公司意见或看法，个人见解仅供参考。Microsoft Learn 是免费线上开放式培训平台，请在严格遵守《[Microsoft 使用条款](https://www.microsoft.com/zh-cn/legal/terms-of-use)》和《[docs.microsoft.com 使用条款](https://docs.microsoft.com/zh-cn/legal/termsofuse)》的前提下使用 Learn 平台。**学习记录全部内容允许任意转载、自由使用**。谢谢！
 
->   **受中国内地 Internet 网络环境影响，笔记中的图片可能无法正常显示，敬请留意**。
+>   **受中国内地 Internet 网络环境影响，记录中的图片可能无法正常显示，敬请留意**。
 
 ----
 
@@ -42,7 +42,7 @@ Microsoft 创新教师 (MIE) 计划旨在表彰全球各地具有远见的教师
 
 ## 反 馈
 
-欢迎为本《**[Microsoft 认证创新教师 (MIE) 学习笔记](https://github.com/Lingggao/MIE#microsoft-%E8%AE%A4%E8%AF%81%E5%88%9B%E6%96%B0%E6%95%99%E5%B8%88-mie---%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)**》评分、勘误、提供宝贵意见建议。
+欢迎为本《**[Microsoft 认证创新教师 (MIE) 学习记录](https://github.com/Lingggao/MIE#microsoft-%E8%AE%A4%E8%AF%81%E5%88%9B%E6%96%B0%E6%95%99%E5%B8%88-mie---%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)**》评分、勘误、提供宝贵意见建议。
 
 请点击[「**此处**」](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Q3sH7RUREw1MVRBNUtFVFNTSEk4TkVYSThSN05ERi4u)或扫描下方二维码填写调查表，调查完全匿名。谢谢！
 
