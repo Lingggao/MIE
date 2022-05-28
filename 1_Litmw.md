@@ -1,6 +1,6 @@
 # 现代工作场所中的领导力
 
-<img src="https://github.com/Lingggao/MIE/blob/main/Pictures/1_Litmw.png?raw=true" width = "10%" />
+<img src="https://github.com/Lingggao/MIE/blob/main/Pictures/1_Litmw.png?raw=true" width = "8%" />
 
 **Microsoft Learn: [新式工作场所中的领导力](https://docs.microsoft.com/zh-cn/learn/paths/leadership-modern-workplace/) (ZH) | [Leadership in the modern workplace](https://docs.microsoft.com/en-us/learn/paths/leadership-modern-workplace/) (EN)**
 
