@@ -32,6 +32,8 @@ Microsoft 创新教师 (MIE) 计划旨在表彰全球各地具有远见的教师
     - [2. 加强沟通](https://github.com/Lingggao/MIE/blob/main/1_Litmw.md#2-%E5%8A%A0%E5%BC%BA%E6%B2%9F%E9%80%9A)  
     - [3. 专业学习社区 (PLC)](https://github.com/Lingggao/MIE/blob/main/1_Litmw.md#3-%E4%B8%93%E4%B8%9A%E5%AD%A6%E4%B9%A0%E7%A4%BE%E5%8C%BA-plc)  
 
+-   [**三、以文化领导力创造包容环境**]()  
+
 
 ### Ⅱ ？
 
