@@ -16,9 +16,9 @@ Microsoft 创新教师 (MIE) 计划旨在表彰全球各地具有远见的教师
 
 >   左：旧版 MIE 证书、右：新版 MIE 证书
 
-**“知识是前人的实践，只有通过自己的实践，举一反三，才有真知。”** —— [中国工程院](https://www.cae.cn/cae/html/main/colys/12146941.html) 叶可明院士
-
 ## 目 录
+
+**“知识是前人的实践，只有通过自己的实践，举一反三，才有真知。”** —— [中国工程院](https://www.cae.cn/cae/html/main/colys/12146941.html) 叶可明院士
 
 ### Ⅰ [**现代工作场所中的领导力**](https://github.com/Lingggao/MIE/blob/main/1_Litmw.md#%E7%8E%B0%E4%BB%A3%E5%B7%A5%E4%BD%9C%E5%9C%BA%E6%89%80%E4%B8%AD%E7%9A%84%E9%A2%86%E5%AF%BC%E5%8A%9B)  
 - [**一、以教学领导力改善学习环境**](https://github.com/Lingggao/MIE/blob/main/1_Litmw.md#%E4%B8%80%E4%BB%A5%E6%95%99%E5%AD%A6%E9%A2%86%E5%AF%BC%E5%8A%9B%E6%94%B9%E5%96%84%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83)  
