@@ -8,6 +8,8 @@
 
 **作 者**：Ling Gao，Microsoft 认证创新教师 (MIE)
 
+![LING](https://github.com/Lingggao/Lingggao/blob/master/2.png?raw=true)
+
 Microsoft 创新教师 (MIE) 计划旨在表彰全球各地具有远见的教师，他们利用技术为同行铺设道路，帮助更好地学习、取得更佳的学生成果。这些教师热情洋溢，他们共同学习、分享和成长。
 
 <img src="https://github.com/Lingggao/MIE/blob/main/Pictures/MIE_1.png?raw=true" width = "45%" /><img src="https://github.com/Lingggao/MIE/blob/main/Pictures/MIE_2.png?raw=true" width = "50%" />
@@ -51,4 +53,4 @@ Microsoft 创新教师 (MIE) 计划旨在表彰全球各地具有远见的教师
 
 <img src="https://github.com/Lingggao/MIE/blob/main/Pictures/LING.png?raw=true" width = "15%" />
 
-[字体许可使用授权书]()
+[字体许可使用授权书](https://github.com/Lingggao/MIE/blob/main/%E5%AD%97%E4%BD%93%E8%AE%B8%E5%8F%AF%E4%BD%BF%E7%94%A8%E6%8E%88%E6%9D%83%E4%B9%A6.md#%E5%AD%97%E4%BD%93%E8%AE%B8%E5%8F%AF%E4%BD%BF%E7%94%A8%E6%8E%88%E6%9D%83%E4%B9%A6)
