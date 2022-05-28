@@ -91,7 +91,11 @@ Microsoft 致力于帮助教师提高专业技能，协助学生在严格培训�
 
 学校领导层可以基于 Microsoft Teams 产品内置的模板[**创建 PLC 团队**](https://support.microsoft.com/zh-cn/topic/%E5%9C%A8-microsoft-teams-%E4%B8%AD%E5%88%9B%E5%BB%BA-plc-%E5%9B%A2%E9%98%9F-ad803fa2-c967-41b4-ae37-0bf60f17fa00) (如下图)，授予教师更高自主权。
 
+![PLC Team](https://github.com/Lingggao/MIE/blob/main/Pictures/plcteam.png?raw=true)
 
+>   创建 PLC 团队
+
+//
 
 ----
 
