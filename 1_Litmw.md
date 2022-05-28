@@ -89,6 +89,10 @@ Microsoft 致力于帮助教师提高专业技能，协助学生在严格培训�
 
 **专业学习社区** (Professional Learning Community, PLC)，指 **“教育工作者在集体探索和行动研究中循环协作，为他们的学生创造更好的学习成果”** 的持续过程 (Dufour & Reeves, 2015)。Microsoft 旗下技术能让教师**更聪明**地工作，而非更努力地工作。**“教师可以创造变革”**，当这种信念成为校园文化的一部分时，无论遇到怎样的困难，教育工作者都能矢志不渝的坚持下去。
 
+学校领导层可以基于 Microsoft Teams 产品内置的模板[**创建 PLC 团队**](https://support.microsoft.com/zh-cn/topic/%E5%9C%A8-microsoft-teams-%E4%B8%AD%E5%88%9B%E5%BB%BA-plc-%E5%9B%A2%E9%98%9F-ad803fa2-c967-41b4-ae37-0bf60f17fa00) (如下图)，授予教师更高自主权。
+
+
+
 ----
 
 [**返回首页**](https://github.com/Lingggao/MIE#microsoft-%E8%AE%A4%E8%AF%81%E5%88%9B%E6%96%B0%E6%95%99%E5%B8%88-mie---%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)
