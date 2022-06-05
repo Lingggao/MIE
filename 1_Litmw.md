@@ -113,7 +113,9 @@ Microsoft 致力于帮助教师提高专业技能，协助学生在严格培训�
 
 为教师和学生赋能，首要任务是确保他们能够获得工具和资源。Microsoft 365 产品 (原 Office 365 产品) 最多可在 **5 部**设备中安装和使用。如果学校订阅了 Microsoft 365 A3 或 A5 [**教育版授权**](https://www.microsoft.com/zh-cn/education/Products/microsoft-365) (如下图)，下属所有用户均可安装 Office 产品至私人设备。
 
+![A1 A3 A5](https://github.com/Lingggao/MIE/blob/main/Pictures/a1a3a5.png?raw=true)
 
+>   Microsoft 365 产品 A1、A3、A5 教育版许可
 
 ### 2. 为利益创造包容环境
 
